@@ -16,8 +16,7 @@ Faço curso técnico de Design, Lógica da computação, Banco de dados e TI.
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=IanFerreira00&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/ianthatmf?t=v-7qLlAxJxVmmD70BR1HZQ&s=09)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+
 
 ### 🔝 Contribuições de repositório
 ![](https://github-contributor-stats.vercel.app/api?username=IanFerreira00&limit=5&theme=dark&combine_all_yearly_contributions=true)
