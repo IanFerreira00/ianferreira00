@@ -1,7 +1,7 @@
 # 💫 Sobre mim:
 Meu nome é Ian
 
-Tenho 16 anos, nasci em Minas Gerais, e moro em Florianópolis.
+Tenho 17 anos, nasci em Minas Gerais, e moro em Florianópolis.
 Faço curso técnico de Design, Lógica da computação, Banco de dados e TI.
 
 ## 🌐 Siga-me:
