@@ -2,7 +2,7 @@
 Meu nome é Ian
 
 Tenho 17 anos, nasci em Minas Gerais, e moro em Florianópolis.
-Faço curso técnico de Design, Lógica da computação, Banco de dados e TI.
+Faço Análise e Desenvolvimento de sistemas no Senai.
 
 ## 🌐 Siga-me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ian.0107?igshid=NzMyMjgxZWIzNw==) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ianthatmf?t=v-7qLlAxJxVmmD70BR1HZQ&s=09) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ian_000) 
